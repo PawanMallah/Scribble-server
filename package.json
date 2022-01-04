@@ -1,0 +1,16 @@
+{
+  "name": "scribble-server",
+  "version": "1.0.0",
+  "description": "scribble ",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "collections": "^5.1.11",
+    "socket.io": "^2.3.0"
+  },
+  "devDependencies": {},
+  "author": "",
+  "license": "ISC"
+}
